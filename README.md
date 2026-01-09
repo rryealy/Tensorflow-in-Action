@@ -53,3 +53,7 @@ Tensorflow-in-Action/
 ├── .gitignore
 ├── requirements.txt (jika sudah dibuat)
 └── README.md
+
+# Created by Group 13 Deeplearning
+# Darryl Satria Wibowo | 1103223057
+# Fakriza Bondan Pradipta | 1103223146
