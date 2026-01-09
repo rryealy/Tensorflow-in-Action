@@ -5,6 +5,10 @@
 Code Reproduction + Theoretical Deep Dive from TensorFlow in Action (Thushan Ganegedara)
 # Tensorflow-in-Action
 
+# Created by Group 13 Deeplearning
+# Darryl Satria Wibowo | 1103223057
+# Fakriza Bondan Pradipta | 1103223146
+
 Code reproduction dan **theoretical deep dive** dari buku _TensorFlow in Action (Covers TensorFlow 2.9)_ karya Thushan Ganegedara (Manning, 2022). Repo ini berisi rangkaian Jupyter Notebook yang mengikuti alur bab di buku, dengan eksperimen tambahan, catatan pribadi, dan beberapa modifikasi arsitektur/model. 
 
 > ⚠️ Repo ini tidak berisi teks buku, hanya kode dan catatan turunan. Untuk materi lengkap (teori, penjelasan, dan soal latihannya), tetap perlu memiliki buku aslinya. 
@@ -54,6 +58,4 @@ Tensorflow-in-Action/
 ├── requirements.txt (jika sudah dibuat)
 └── README.md
 
-# Created by Group 13 Deeplearning
-# Darryl Satria Wibowo | 1103223057
-# Fakriza Bondan Pradipta | 1103223146
+
